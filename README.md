@@ -21,6 +21,7 @@ Here is a list of the projects:
 - [Holed parts](#holed-parts)
 - [Servos case](#servos-case)
 - [Signal generator foot](#signal-generator-foot)
+- [Spool holder](#spool-holder)
 
 
 ### Flexible tentacle
@@ -98,7 +99,7 @@ fan noise, but still).
 
 So I came up with this part that can be mounted on the already exixting structure of the 3d printer.
 It is thought to be integrated with a small ball bearing thanks to a snap-fit system, which allows the filament spool
-to unroll itsel very smoothly and in a silent way.
+to unroll itself very smoothly and in a silent way.
 
 You can take a closer look at the [SCAD sources](./spool_holder/scad/) and the [STL models](./spool_holder/stl/).
 
