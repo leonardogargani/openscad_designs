@@ -85,3 +85,21 @@ There's nothing particular to point out, I just took some measurements of the br
 You can take a closer look at the [SCAD sources](./signal_generator_foot/scad/) and the [STL models](./signal_generator_foot/stl/).
 
 
+### Spool holder
+
+![spool_holder](./spool_holder/img/spool_holder.gif)
+
+This model is an upgrade I created for my 3d printer to improve the sliding on the filament spool.
+
+In fact, as the filament is pulled by the extruder, the spool slowly starts rotating to unroll itself.
+While this is not a problem per se because everything works as expected, the sliding of the spool is not optimal and
+it unrolls in jerky movements. The resulting noise is also quite annoying (ok, maybe it is negligible compared with the
+fan noise, but still).
+
+So I came up with this part that can be mounted on the already exixting structure of the 3d printer.
+It is thought to be integrated with a small ball bearing thanks to a snap-fit system, which allows the filament spool
+to unroll itsel very smoothly and in a silent way.
+
+You can take a closer look at the [SCAD sources](./spool_holder/scad/) and the [STL models](./spool_holder/stl/).
+
+
