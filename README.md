@@ -20,6 +20,7 @@ Here is a list of the projects:
 - [Flexible tentacle](#flexible-tentacle)
 - [Holed parts](#holed-parts)
 - [Servos case](#servos-case)
+- [Signal generator foot](#signal-generator-foot)
 
 
 ### Flexible tentacle
@@ -70,5 +71,17 @@ The project is intended to just simplify the placement of the electronic compone
 are organized in a tidy way inside the enclosure.
 
 You can take a closer look at the [SCAD sources](./servos_case/scad/) and the [STL models](./servos_case/stl/).
+
+
+### Signal generator foot
+
+![signal_generator_foot](./signal_generator_foot/img/signal_generator_foot.gif)
+
+This model is the accurate replica of a small part that broke and couldn't be find on sale.
+
+In particular, it is one of the two feet of a signal generator. Without it the instrument couldn't properly stand upright.
+There's nothing particular to point out, I just took some measurements of the broken part and modeled a new one. Easy fix.
+
+You can take a closer look at the [SCAD sources](./signal_generator_foot/scad/) and the [STL models](./signal_generator_foot/stl/).
 
 
